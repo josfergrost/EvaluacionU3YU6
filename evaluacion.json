@@ -1,0 +1,222 @@
+{
+    "nombre": "Valdovinos Ochoa Montserrat",
+    "control": "18420100",
+    "calificaciones": [
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Finanzas internacionales IV",
+            "calificacion": 80.0
+        },
+        {
+            "materia": "Dise\u00f1o UX y UI",
+            "calificacion": 71.0
+        },
+        {
+            "materia": "Algoritmos inteligentes",
+            "calificacion": 99.0
+        },
+        {
+            "materia": "Contabilidad Financiera",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Microservicios",
+            "calificacion": 89.0
+        },
+        {
+            "materia": "Base de datos distribuidas",
+            "calificacion": 91.0
+        },
+        {
+            "materia": "Analisis y dise\u00f1o de sistemas de informacion",
+            "calificacion": 100.0
+        }
+    ]
+}
